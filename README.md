@@ -1,3 +1,5 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 # API Laravel - Gerenciamento de Tarefas
 
 Esta API foi desenvolvida com Laravel para realizar o gerenciamento de tarefas. Ela permite a criação, leitura, atualização e exclusão de tarefas, além de suportar categorias para organizá-las. O objetivo principal é fornecer uma solução flexível e eficiente para gerenciar listas de tarefas.
