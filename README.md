@@ -123,4 +123,4 @@ DELETE /api/tasks/{id}
 
 - PHP 8 ou superior
 - Composer
-- Banco de Dados (ainda a decidir)
+- MariaDB -> *Em transição para o PostgreSQL*
